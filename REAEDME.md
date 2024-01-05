@@ -1,0 +1,3 @@
+# 3 Seminar
+
+## CHANGE FROM LOCAL REPOSITORY
